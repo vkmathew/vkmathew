@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="squirrel.png" width="420" alt="Scrat-like squirrel" />
+  <img src="squirrel.png" width="850" alt="Scrat-like squirrel reaching for nut" />
 </p>
